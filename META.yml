@@ -1,0 +1,28 @@
+---
+abstract: 'Install all Setup modules'
+author:
+  - 'Steven Haryanto <stevenharyanto@gmail.com>'
+build_requires:
+  Module::Build: 0.3601
+configure_requires:
+  Module::Build: 0.3601
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300006, CPAN::Meta::Converter version 2.113640'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Task-Setup
+requires:
+  Setup: 0
+  Setup::File: 0
+  Setup::File::Symlink: 0
+  Setup::Multi: 0
+  Setup::Test: 0
+  Setup::Text::Snippet: 0
+  Setup::Unix::User: 0
+  Test::Setup: 0
+resources:
+  homepage: http://search.cpan.org/dist/Task-Setup/
+  repository: http://github.com/sharyanto/perl-Task-Setup
+version: 0.01
