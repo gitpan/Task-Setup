@@ -17,7 +17,7 @@ my %module_build_args = (
     "Steven Haryanto <stevenharyanto\@gmail.com>"
   ],
   "dist_name" => "Task-Setup",
-  "dist_version" => "0.01",
+  "dist_version" => "0.02",
   "license" => "perl",
   "module_name" => "Task::Setup",
   "recommends" => {},
@@ -26,11 +26,8 @@ my %module_build_args = (
     "Setup" => 0,
     "Setup::File" => 0,
     "Setup::File::Symlink" => 0,
-    "Setup::Multi" => 0,
-    "Setup::Test" => 0,
     "Setup::Text::Snippet" => 0,
-    "Setup::Unix::User" => 0,
-    "Test::Setup" => 0
+    "Setup::Unix::User" => 0
   },
   "script_files" => []
 );

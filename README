@@ -2,7 +2,7 @@ NAME
     Task::Perinci - Install all Setup modules
 
 VERSION
-    version 0.01
+    version 0.02
 
 DESCRIPTION
     This task will install all Setup modules.
@@ -12,11 +12,8 @@ TASK CONTENTS
    Setup
    Setup::File
    Setup::File::Symlink
-   Setup::Multi
-   Setup::Test
    Setup::Text::Snippet
    Setup::Unix::User
-   Test::Setup
 AUTHOR
     Steven Haryanto <stevenharyanto@gmail.com>
 

@@ -1,6 +1,6 @@
 package Task::Perinci;
 
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 1;
 # ABSTRACT: Install all Setup modules
@@ -15,7 +15,7 @@ Task::Perinci - Install all Setup modules
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 
@@ -31,15 +31,9 @@ This task will install all Setup modules.
 
 =head3 L<Setup::File::Symlink>
 
-=head3 L<Setup::Multi>
-
-=head3 L<Setup::Test>
-
 =head3 L<Setup::Text::Snippet>
 
 =head3 L<Setup::Unix::User>
-
-=head3 L<Test::Setup>
 
 =head1 AUTHOR
 
