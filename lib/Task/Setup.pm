@@ -1,6 +1,6 @@
-package Task::Perinci;
+package Task::Setup;
 
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 1;
 # ABSTRACT: Install all Setup modules
@@ -11,11 +11,11 @@ __END__
 
 =head1 NAME
 
-Task::Perinci - Install all Setup modules
+Task::Setup - Install all Setup modules
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 DESCRIPTION
 

@@ -22,4 +22,4 @@ requires:
 resources:
   homepage: http://search.cpan.org/dist/Task-Setup/
   repository: http://github.com/sharyanto/perl-Task-Setup
-version: 0.02
+version: 0.03

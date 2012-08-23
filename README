@@ -1,8 +1,8 @@
 NAME
-    Task::Perinci - Install all Setup modules
+    Task::Setup - Install all Setup modules
 
 VERSION
-    version 0.02
+    version 0.03
 
 DESCRIPTION
     This task will install all Setup modules.
